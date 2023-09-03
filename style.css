@@ -17,5 +17,23 @@ body {
 }
 
 #profile {
+  margin-top: 56px;
   border: 1px solid red;
+}
+
+#img1 {
+  border: 1px solid black;
+  align-items: center;
+  display: flex;
+  height: 100px;
+  margin-top: 24px;
+  margin-left: 124px;
+}
+
+#username {
+  color: white;
+  margin-left: 144px;
+  margin-top: 8px;
+  font-size: 16px;
+  font-family: Poppins, Mono;
 }
